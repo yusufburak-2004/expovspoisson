@@ -14,7 +14,7 @@ Exponential dağılımı, belirli bir süre içinde belirli bir olayın gerçekl
 
 Bu karşılaştırma aslında oldukça basit bir konsepte dayanmaktadır. **Eğer olayların zamanı sürekli ise MAVİ renkte, eğer sadece belirli saatlerde gerçekleşiyorsa KIRMIZI renkte gösterilmektedir.** Bu, her bir dağılımın nasıl davrandığını daha net bir şekilde anlamanıza yardımcı olur.
 
-Bu görsel, her bir saat için Poisson ve Exponential dağılımlarının kümülatif olasılık fonksiyonlarını göstermektedir.
+Bu görsel, her bir saat için Poisson ve Exponential dağılımlarının kümülatif olasılık fonksiyonlarını göstermektedir.**BURADA ORTALAMA 3 ÖRNEĞİN.**
 
 ![5f0f15dc-c338-4074-b839-8a43a166e785](https://github.com/yusufburak-2004/poissoncalculation/assets/145719589/e525a853-6195-4350-8846-99dd9cba461f)
 
