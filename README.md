@@ -1,5 +1,5 @@
 # Poisson ve Exponential Dağılımları Karşılaştırması
-
+DOĞRUSU EĞER SAAT SÜREKLİYSE MAVİ . EĞER SADECE 1,2,3 GİBİ SAATLER VARSA KIRMIZI
 Bu R kodu, Poisson ve Exponential dağılımlarını karşılaştırmak için olasılık yoğunluk/kütle fonksiyonlarını hesaplar ve görselleştirir.
 
 ## Poisson Dağılımı
