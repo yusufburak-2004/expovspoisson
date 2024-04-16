@@ -21,4 +21,3 @@ ggplot(df, aes(x = Saat)) +
   scale_color_manual(values = c("Exponential" = "blue", "Poisson" = "red")) +
   labs(x = "Saat", y = "Kümülatif Olasılık", color = "Dağılım Türü") +
   theme_minimal()
-
