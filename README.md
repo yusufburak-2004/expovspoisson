@@ -1,23 +1,15 @@
-# Poisson Dağılımı Simülasyonu
+# Poisson ve Exponential Dağılımları Karşılaştırması
 
-Bu R projesi, bir fabrikanın ürünlerinin Poisson dağılımını simüle eder. Fabrika her 2 dakikada bir ürün üretmektedir.
+Bu R kodu, Poisson ve Exponential dağılımlarını karşılaştırmak için olasılık yoğunluk/kütle fonksiyonlarını hesaplar ve görselleştirir.
 
-## Kullanım
+## Poisson Dağılımı
 
-1. R ortamınızı açın.
-2. `script.R` dosyasını çalıştırarak Poisson dağılımı simülasyonunu gerçekleştirin.
-3. Çıktıları gözlemleyin ve sonuçları değerlendirin.
+Poisson dağılımı, belirli bir zaman aralığında belirli bir olayın gerçekleşme sayısını modellemek için kullanılır. Bu dağılımın kümülatif olasılık fonksiyonu kesikli olduğu için, bu özellikle belirli anlarda gerçekleşen olayları modellemek için uygundur.
 
-## Dosya Açıklamaları
+## Exponential Dağılımı
 
-- `script.R`: Poisson dağılımı simülasyonunu gerçekleştiren R betiği.
-- `README.md`: Bu dosya, projenin açıklamasını içerir.
-- `LICENSE`: Projenin lisansını belirten bir lisans dosyası (isteğe bağlı).
+Exponential dağılımı, belirli bir süre içinde belirli bir olayın gerçekleşme süresini modellemek için kullanılır. Bu dağılımın olasılık yoğunluk fonksiyonu sürekli olduğu için, bu özellikle olayların sürekli bir zaman akışında gerçekleştiği durumları modellemek için uygundur.
 
-## Bağımlılıklar
+Bu görsel, her bir saat için Poisson ve Exponential dağılımlarının kümülatif olasılık fonksiyonlarını göstermektedir.
 
-- tidyverse
-
-## Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasına bakın.
+![Poisson ve Exponential Dağılımları](https://github.com/yusufburak-2004/poissoncalculation/assets/145719589/29d78fa4-3c38-4f2e-8240-2d324b674ccc)
