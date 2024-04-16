@@ -16,5 +16,6 @@ Bu karşılaştırma aslında oldukça basit bir konsepte dayanmaktadır. **Eğe
 
 Bu görsel, her bir saat için Poisson ve Exponential dağılımlarının kümülatif olasılık fonksiyonlarını göstermektedir.
 
-![Poisson ve Exponential Dağılımları](https://github.com/yusufburak-2004/poissoncalculation/assets/145719589/29d78fa4-3c38-4f2e-8240-2d324b674ccc)
+![5f0f15dc-c338-4074-b839-8a43a166e785](https://github.com/yusufburak-2004/poissoncalculation/assets/145719589/e525a853-6195-4350-8846-99dd9cba461f)
+
 
