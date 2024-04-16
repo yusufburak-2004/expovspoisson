@@ -1,4 +1,4 @@
-# Poisson ve Exponential Dağılımları Karşılaştırması
+# Poisson ve Exponential Dağılımları Karşılaştırması Bu Kadar Kolay
 
 Bu R kodu, Poisson ve Exponential dağılımlarını karşılaştırmak için olasılık yoğunluk/kütle fonksiyonlarını hesaplar ve görselleştirir.
 
