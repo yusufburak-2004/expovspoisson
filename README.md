@@ -16,6 +16,7 @@ Bu karşılaştırma aslında oldukça basit bir konsepte dayanmaktadır. **Eğe
 
 Bu görsel, her bir saat için Poisson ve Exponential dağılımlarının kümülatif olasılık fonksiyonlarını göstermektedir.**BURADA ORTALAMA 3 ÖRNEĞİN.**
 
-![5f0f15dc-c338-4074-b839-8a43a166e785](https://github.com/yusufburak-2004/poissoncalculation/assets/145719589/e525a853-6195-4350-8846-99dd9cba461f)
+![1a46e872-0646-4547-abab-46df0393d98e](https://github.com/yusufburak-2004/expovspoisson/assets/145719589/28a08cc1-877a-44e8-944c-19705825bf50)
+
 
 
